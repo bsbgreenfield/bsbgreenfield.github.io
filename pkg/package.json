@@ -1,0 +1,15 @@
+{
+  "name": "code-notes",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "code_notes_bg.wasm",
+    "code_notes.js",
+    "code_notes.d.ts"
+  ],
+  "main": "code_notes.js",
+  "types": "code_notes.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
