@@ -1,0 +1,1 @@
+import{w as n,B as i,z as l,j as o,y as s,T as m}from"./index-DdfSDSqY.js";var u=s("<main><!$><!/><h1>About");function b(){return(()=>{var e=n(u),r=e.firstChild,[t,a]=i(r.nextSibling);return t.nextSibling,l(e,o(m,{children:"About"}),t,a),e})()}export{b as default};
