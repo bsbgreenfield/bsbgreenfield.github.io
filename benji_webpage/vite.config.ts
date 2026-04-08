@@ -6,11 +6,8 @@ import { solidStart } from "@solidjs/start/config";
 export default defineConfig({
   server: {
 		prerender: {
-			crawlinks: true,
+			crawlLinks: true,
 		}
-	},
-	vite: {
-		base: "/webpage",
 	},
 	plugins: [solidStart(),
 		nitro()
